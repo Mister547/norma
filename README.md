@@ -1,0 +1,2 @@
+# norma
+A jugar
